@@ -57,4 +57,4 @@ jobs:
           app-name: 'contra'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80D7F44F78264A7DAC36CE60521FB847 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E7880C1C6AD44F68F1DF65F6ACCC498 }}
